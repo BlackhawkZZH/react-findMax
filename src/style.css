@@ -1,0 +1,14 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+button {
+  width: 80px;
+}
+
+.clear {
+  display: inline-block;
+  position: relative;
+  left: 10px;
+}
